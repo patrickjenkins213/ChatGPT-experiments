@@ -5,6 +5,9 @@ fine_tuning_results.txt
 *.csv
 *.jsonl
 
+# Idea
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
