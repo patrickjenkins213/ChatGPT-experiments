@@ -1,3 +1,10 @@
+# generated files
+fine_tuning_results.txt
+
+# data files
+*.csv
+*.jsonl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
